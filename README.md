@@ -24,7 +24,7 @@ $ git checkout my_branch
 $ git branch -v
 ```
 
-It will returns something like
+It will return something like
 ```console
 * my_branch
   default_branch
@@ -65,11 +65,11 @@ $ git push OurGroupRemote my_branch
 Note: when pushing for the first time, the branch has been added to the remote repository for everyone to see, otherwise they would not have been aware of a newly created branch!
 
 ### Merging branches
-When done implementing your changes to the code, the branch is ready to be merged to the default branch. This is done by first moving back to the default branch, and from there you merge my_branch to it. For best pracises concerning merging, [check this article](https://dev.to/neshaz/how-to-use-git-merge-the-correctway-25pd).
+When done implementing your changes to the code, the branch is ready to be merged to the default branch. This is done by first moving back to the default branch, and from there you merge my_branch to it. For best practices concerning merging, [check this article](https://dev.to/neshaz/how-to-use-git-merge-the-correctway-25pd).
 
 - 'Move' to the main branch again:
 ```
-$ git chechout default_branch
+$ git checkout default_branch
 ```
 
 - Merge your branch with the main/default:
