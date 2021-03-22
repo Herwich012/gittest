@@ -1,4 +1,5 @@
 # How to branch, add/edit code and merge
+## STEP 1 - Staying up to date
 - **Always** check wether your local repository is up-to-date with the remote repository!
 ```
 $ git fetch
