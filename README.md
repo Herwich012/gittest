@@ -93,5 +93,6 @@ $ git push OurGroupRemote --delete my_branch
 ## All done! you can now collab using git like a pro! :)
 
 ### Further reading:
+- [Git cheat sheet](https://www.jrebel.com/blog/git-cheat-sheet)
 - [Merging and managing conflicts](https://dev.to/neshaz/how-to-use-git-merge-the-correctway-25pd)
 - [Deleting a branch](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
