@@ -38,7 +38,7 @@ Now you can add features/fix bugs on the part of the code you are working on wit
 $ git status
 ```
 
-Here you see the changes made to exsiting files (tracked) and newly created files (untracked). 
+Here you see the changes made to exsisting files (tracked) and newly created files (untracked). 
 
 - Stage all these files, ready for commit:
 ```console
